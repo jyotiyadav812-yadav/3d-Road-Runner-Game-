@@ -1,0 +1,6 @@
+{
+  "name": "3D Road Runner",
+  "description": "An exciting 3D endless runner game featuring an adventurer running down a festive highway, collecting gold coins and dodging obstacles amid cheering crowds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
