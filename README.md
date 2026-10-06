@@ -1,6 +1,7 @@
 # React Example 🚀
 
 A modern React application built with **React, Vite, TypeScript, Tailwind CSS, Three.js, Motion, and Google Gemini AI**.
+ <img width="1086" height="727" alt="my game " src="https://github.com/user-attachments/assets/9fe4db9a-b193-4ef7-ae2f-08c07ef15c81" />
 
 ## ✨ Features
 
